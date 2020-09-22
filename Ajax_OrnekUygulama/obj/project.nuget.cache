@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKO6aF2FplnX2S5sNAIgnMNRn8aOkdVTNToSDiIA07e1F6IFdbNSDa7cIe+c+9MNhFuzn0D6EuCEfqlp7VF0hQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\furka\\OneDrive\\Masaüstü\\Program_Denemeleri\\Ajax_OrnekUygulama\\Ajax_OrnekUygulama\\Ajax_OrnekUygulama.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\furka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
